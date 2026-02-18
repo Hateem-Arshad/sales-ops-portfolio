@@ -13,4 +13,4 @@ Hi, my name is Hateem I have been working in automotive, precious metals, pharma
 SQL | Python | Excel (Advanced) | Power Query | Power Pivot | CRM Management
 
 ## Contact
-[LinkedIn URL]("https://www.linkedin.com/in/hateem-arshad/")
+[LinkedIn URL](https://www.linkedin.com/in/hateem-arshad/)
